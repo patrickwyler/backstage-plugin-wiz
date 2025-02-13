@@ -49,3 +49,4 @@
   "prettier": "@spotify/prettier-config",
   "packageManager": "pnpm@9.15.2"
 }
+
