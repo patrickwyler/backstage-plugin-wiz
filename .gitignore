@@ -53,3 +53,6 @@ site
 
 # Sensitive credentials
 *-credentials.yaml
+
+.pnpm-store/
+response.txt
