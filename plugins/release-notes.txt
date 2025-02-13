@@ -1,0 +1,5 @@
+- Initial Release Features:
+    * Security issues and vulnerabilities display with filtering and search capabilities
+    * Support for multiple Wiz entity annotations (project-id, asset-id, external-asset-id, repository-external-id)
+    * Secure Wiz API integration with efficient data fetching
+    * Integration with Backstage catalog entities

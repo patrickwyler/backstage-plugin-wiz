@@ -1,0 +1,33 @@
+src/
+dev/
+node_modules/
+Taskfile.yml
+.eslintrc.js
+
+# Tests
+test/
+*.test.js
+*.spec.js
+
+# Build configs
+webpack.config.js
+rollup.config.js
+tsconfig.json
+
+# Environment and editor configs
+.env
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Version control files
+.git/
+.gitignore
+.npmignore
+
+# Documentation and examples
+docs/
+examples/
