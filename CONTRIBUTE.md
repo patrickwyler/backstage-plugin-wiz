@@ -38,7 +38,7 @@ annotations: {
   'wiz.io/project-id': 'your-project-id',
   'wiz.io/asset-id': 'your-asset-id',
   'wiz.io/external-asset-id': 'your-external-asset-id',
-  'wiz.io/repository-external-id': 'github.com##organization/repository',
+  'wiz.io/repository-external-id': 'organization/repository',
 }
 ```
 
@@ -85,7 +85,7 @@ plugins/
 └── backstage-plugin-wiz-backend/  # Backend plugin
     └── src/
         ├── service/               # Backend services
-        └── router/                # API routes
+        └── routes/                # API routes
 ```
 
 ## Common Issues

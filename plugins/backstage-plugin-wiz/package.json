@@ -1,6 +1,6 @@
 {
   "name": "@wiz-sec/backstage-plugin-wiz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./dist/index.esm.js",
   "types": "./dist/index.d.ts",
   "module": "./dist/index.esm.js",
@@ -9,6 +9,7 @@
     "main": "./dist/index.esm.js",
     "types": "./dist/index.d.ts"
   },
+  "license": "Apache-2.0",
   "backstage": {
     "role": "frontend-plugin",
     "pluginId": "wiz",
